@@ -1,4 +1,4 @@
-# Asha Tharsius Kulas - Portfolio Website
+# Merry Asha Tharsius Kulas - Portfolio Website
 
 A modern, responsive portfolio website showcasing my skills as a Full Stack Developer and Machine Learning Enthusiast.
 
@@ -27,10 +27,8 @@ MyPortfolio/
 ├── index.html          # Main HTML file
 ├── style.css           # Custom CSS styles
 ├── app.js             # JavaScript functionality
-├── img/               # Image assets
-│   ├── mine.png       # Profile image
-│   ├── hero-bg.png    # Hero background
-│   └── project-*.png  # Project screenshots
+├── mine.png
+├── assets/             # Additional files (CV, images, etc.)
 └── README.md          # Project documentation
 ```
 
